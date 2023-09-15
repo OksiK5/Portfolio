@@ -9,6 +9,7 @@ Windows, HTML, CSS, Git, JavaScript.
 
 Дипломная работа по верстке:(GitHub Pages: https://oksik5.github.io/MQ-diplom/)
     Ссылка на репозиторий: https://github.com/OksiK5/MQ-diplom/
+    Ссылка на задание: https://github.com/netology-code/mq-diploma
 
 Дипломная работа по JavaScript: https://github.com/OksiK5/js-cp-diploma-cinema
 

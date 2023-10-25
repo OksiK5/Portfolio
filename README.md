@@ -21,4 +21,6 @@ Windows, HTML, CSS, Git, JavaScript.
 
 Мой первый сайт на Webflow:https://site-brovista-4adfb9.webflow.io/
 
-Сертификаты: https://oksi-web.ru/
+Вёрстка сайта по макету Figma: https://oksik5.github.io/Site-Burger/
+
+Сертификаты можно посмотреть здесь: https://oksi-web.ru/
